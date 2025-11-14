@@ -6,7 +6,7 @@ This report presents the Fiscal Year 2023 Risk and Vulnerability Assessments (RV
 <img width="296" height="386" alt="image" src="https://github.com/user-attachments/assets/b0d23227-74a3-4d2c-b322-1b249f609695" />
 
 
-**Task 3: Diamond Model Vertex Extraction** 
+ ## **Task 3: Diamond Model Vertex Extraction** 
 | Diamond Model Vertex | Observed Details                                                                                  | Supported Evidence                                                                                     |
 |---------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | **Adversary**       | Chinese cyber espionage groups (e.g., APT15, APT31, Volt Typhoon, UNC5174) targeting U.S. sectors | Named groups and activities documented in CISA's FY23 RVA Analysis report, including spear phishing campaigns and public-facing app exploitation ![Adversary Evidence](Screenshots/Adversary_evidence.png) |
@@ -15,7 +15,7 @@ This report presents the Fiscal Year 2023 Risk and Vulnerability Assessments (RV
 | **Victim**          | U.S. federal civilian executive branch, critical infrastructure sectors, and SLTT entities      | Identification of target sectors, including energy, finance, water, transportation as vulnerable entities in the FY23 RVA report ![Victim evidence](Screenshots/Victim_evidence.png) |
 
 
-**Task 5: Threat Actor Profile Summary**
+## **Task 5: Threat Actor Profile Summary**
 
 **Actor Names:** Multiple Chinese state-sponsored cyber espionage groups, including APT15, APT31, Volt Typhoon, Storm-0558, UNC5174, are key adversaries operating against U.S. sectors. These groups employ advanced tactics for intelligence gathering related to military, economic, and governmental objectives.
 
@@ -45,7 +45,7 @@ Secure sensitive data via encryption and limit software to an allowlist of appro
 
 
 
-**Task 6: Reflection**
+## **Task 6: Reflection**
 
 **How does the Diamond Model help in understanding threat actors?**
 
@@ -58,3 +58,10 @@ Identifying the adversary is challenging due to limited or overlapping informati
 **How could this model support proactive defense strategies?**
 
 The model enables defenders to anticipate attacker moves by understanding their infrastructure and capabilities. It helps prioritize defenses and monitor relevant threats. By knowing the victim profile, organizations can tailor prevention and detection efforts to reduce risks and respond more effectively.
+
+## References
+
+[CISA Analysis: FY23 Risk and Vulnerability Assessment](https://www.cisa.gov/sites/default/files/2024-09/FY23_RVA_Analysis_508.pdf)
+
+[FY23 RVAs Mapped to the MITRE ATT&CK Framework Infographic](https://www.cisa.gov/sites/default/files/2024-09/InfographicFY23RVA508.pdf)
+
