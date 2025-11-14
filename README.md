@@ -53,7 +53,7 @@ The Diamond Model helps by breaking down complex cyber threats into four main pa
 
 **What challenges did you face in identifying each vertex?**
 
-Identifying the adversary is challenging due to limited or overlapping information about threat groups. Infrastructure is hard to pin down because attackers use diverse and hidden tools. Capabilities can vary widely making it difficult to map every technique. Victim identification is sometimes unclear because attacks can affect many sectors and regions.
+Identifying the adversary is challenging due to limited or overlapping information about threat groups. Infrastructure is hard to find because attackers use different hidden tools. Capabilities can vary widely making it difficult to map every technique. Victim identification is sometimes unclear because attacks can affect many sectors and regions.
 
 **How could this model support proactive defense strategies?**
 
