@@ -1,5 +1,10 @@
 # CTI_Assignment_Meetkumar_Patel
 
+**Overview**
+This report presents the Fiscal Year 2023 Risk and Vulnerability Assessments (RVA) conducted by the Cybersecurity and Infrastructure Security Agency (CISA). It analyzes various cyber threats and vulnerabilities targeting critical infrastructure, federal civilian agencies, and state, local, tribal, and territorial entities. The report highlights key adversary groups, their attack techniques, infrastructure employed, capabilities, and targeted sectors. It provides actionable intelligence for improving cybersecurity defenses and risk management across vital U.S. sectors.
+<img width="296" height="386" alt="image" src="https://github.com/user-attachments/assets/b0d23227-74a3-4d2c-b322-1b249f609695" />
+
+
 **Task 3: Diamond Model Vertex Extraction** 
 | Diamond Model Vertex | Observed Details                                                                                  |
 |---------------------|---------------------------------------------------------------------------------------------------|
