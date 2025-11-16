@@ -12,7 +12,7 @@ This report presents the Fiscal Year 2023 Risk and Vulnerability Assessments (RV
 | **Adversary**       | Chinese cyber espionage groups (e.g., APT15, APT31, Volt Typhoon, UNC5174) targeting U.S. sectors | Named groups and activities documented in CISA's FY23 RVA Analysis report, including spear phishing campaigns and public-facing app exploitation ![Adversary Evidence](Screenshots/Adversary_evidence.png) |
 | **Infrastructure**  | Command-line tools, Living-Off-The-Land binaries, VPNs, RDP, Citrix Netscaler, CobaltStrike, DNS-over-HTTPS | Observations of native tools, compromised VPN and RDP, use of malware frameworks and encrypted channels detailed in the report. One evidence from the report: ![Infrastructure_Evidence](Screenshots/Infrastructure_evidence.png) |
 | **Capability**      | Spear phishing, use of valid credentials, malware deployment (CobaltStrike, RESHELL, XDealer), privilege escalation, defense evasion | Technical descriptions of attack techniques mapped to MITRE ATT&CK tactics, including credential dumping and lateral movement ![Capability Evidence](Screenshots/Capability_evidence.png) |
-| **Victim**          | U.S. federal civilian executive branch, critical infrastructure sectors, and SLTT entities      | Identification of target sectors, including energy, finance, water, transportation as vulnerable entities in the FY23 RVA report ![Victim evidence](Screenshots/Victim_evidence.png) |
+| **Victim**          | U.S. federal civilian executive branch(FCEB), critical infrastructure sectors, and SLTT entities      | Identification of target sectors, including energy, finance, water, transportation as vulnerable entities in the FY23 RVA report ![Victim evidence](Screenshots/Victim_evidence.png) |
 
 
 ## **Task 5: Threat Actor Profile Summary**
@@ -22,7 +22,7 @@ This report presents the Fiscal Year 2023 Risk and Vulnerability Assessments (RV
 **Targeted Sectors:** The victims include the U.S. federal civilian executive branch, critical infrastructure sectors such as energy, finance, water, transportation, and agriculture, and state, local, tribal, and territorial entities.
 
 **Attack Vectors & Initial Access methods:**
-Their initial access methods predominantly include spear phishing campaigns, exploitation of public-facing applications, and the use of valid credentials obtained through credential dumping or theft. These adversaries leverage living-off-the-land techniques by using native system tools and utilities to maintain stealth and persistence within victim networks.
+Their initial access methods include spear phishing campaigns, exploitation of public-facing applications, and the use of valid credentials obtained through credential dumping or theft. These adversaries leverage living-off-the-land techniques by using native system tools and utilities to maintain stealth and persistence within victim networks.
 
 **Diamond Model Analysis:**
 The Diamond Model analysis highlights the relationships between the threat actors (Adversaries), their employed infrastructures such as VPNs, Remote Desktop Protocol, and malware like CobaltStrike and RESHELL (Infrastructure), the wide spectrum of capabilities involving privilege escalation, defense evasion, lateral movement, and obfuscated command and control communications (Capabilities), and the targeted victims spanning multiple critical sectors (Victims).
