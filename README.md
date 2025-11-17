@@ -49,11 +49,11 @@ Secure sensitive data via encryption and limit software to an allowlist of appro
 
 **How does the Diamond Model help in understanding threat actors?**
 
-The Diamond Model helps by breaking down complex cyber threats into four main parts: who the adversary is, the tools or infrastructure they use, their capabilities, and the victims they target. This clear structure makes it easier to understand how attacks happen and connect different parts of a cyber attack.
+The Diamond Model helps by breaking down cyber attacks into four main parts: who the adversary is, the tools or infrastructure they use, their capabilities, and the victims they target. This clear structure makes it easier to understand how attacks happen and connect different parts of a cyber attack.
 
 **What challenges did you face in identifying each vertex?**
 
-Identifying the adversary is challenging due to limited or overlapping information about threat groups. Infrastructure is hard to find because attackers use different hidden tools. Capabilities can vary widely making it difficult to map every technique. Victim identification is sometimes unclear because attacks can affect many sectors and regions.
+Identifying the adversary is challenging due to limited information about threat groups. Infrastructure is hard to find because attackers use different hidden tools. Capabilities can vary widely making it difficult to map every technique. Victim identification is sometimes unclear because attacks can affect many sectors and regions.
 
 **How could this model support proactive defense strategies?**
 
